@@ -23,3 +23,10 @@ Khám phá và phân tích dự án game RedRunner - một Platformer 2D mã ngu
 3. Hiểu và nhận diện một số design pattern trong game development như Singleton, Observer và Inheritance.
 4. Biết cách thay đổi các thông số gameplay (tốc độ chạy, lực nhảy, trọng lực) thông qua Inspector.
 5. Làm quen với Git/GitHub: clone project, commit và push mã nguồn lên repository.
+
+## Kiến thức đã học được
+1. Hiểu cấu trúc của một dự án Unity (Assets, Scripts, Scenes, Prefabs…).
+2. Biết cách phân tích code trong dự án game thực tế như GameManager, Character và Enemy.
+3. Hiểu và nhận diện một số design pattern trong game development như Singleton, Observer và Inheritance.
+4. Biết cách thay đổi các thông số gameplay (tốc độ chạy, lực nhảy, trọng lực) thông qua Inspector.
+5. Làm quen với Git/GitHub: clone project, commit và push mã nguồn lên repository.
